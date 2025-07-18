@@ -207,8 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # Exclude files
-structure_database.pdf
-chargement_donnees_dans_tables.pdf
-classes_sqlalchemy.pdf
-configuration_connexion_database.pdf
-classes_sqlalchemy1.pdf
+docs
